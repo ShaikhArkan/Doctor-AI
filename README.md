@@ -10,9 +10,6 @@ Instantly get answers to your medical questions using AI. Whether it’s symptom
 🏥 Find Nearby Hospitals
 Discover hospitals near your location with directions and basic info to help you reach medical help quickly.
 
-⏰ Medicine Reminder
-Set custom reminders for your medicines. The app triggers an alarm at the exact time to ensure you never miss a dose.
-
 🔄 Recent Update (v1.1)
 New Features Added:
 
